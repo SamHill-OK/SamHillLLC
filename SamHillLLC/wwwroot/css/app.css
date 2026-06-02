@@ -255,3 +255,18 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+
+.privacy-page {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 20px 60px;
+    line-height: 1.6;
+}
+
+    .privacy-page h1 {
+        margin-bottom: 20px;
+    }
+
+    .privacy-page h2 {
+        margin-top: 32px;
+    }
