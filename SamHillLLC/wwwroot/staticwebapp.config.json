@@ -1,0 +1,13 @@
+{
+  "navigationFallback": {
+    "rewrite": "/index.html",
+    "exclude": [
+      "/css/*",
+      "/images/*",
+      "/google159d38c16a05b1f1.html",
+      "/*.png",
+      "/*.jpg",
+      "/*.ico"
+    ]
+  }
+}
